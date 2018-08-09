@@ -36,4 +36,4 @@ def insert_pet(pet_name, pet_age, pet_type):
 
 if __name__ == '__main__':
     # insert one vendor
-    insert_pet("asdfasdf", 7, "asdfasdfasf")
+    insert_pet("Diesel Parker", 8, "Belgian Shepherd")

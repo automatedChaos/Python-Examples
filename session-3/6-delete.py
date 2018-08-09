@@ -33,4 +33,4 @@ def delete_pet(pet_id):
 
 if __name__ == '__main__':
     # insert one vendor
-    delete_pet(1)
+    delete_pet(3)
