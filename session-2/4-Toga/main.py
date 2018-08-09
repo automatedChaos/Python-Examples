@@ -76,7 +76,7 @@ class Converter(toga.App):
         self.result.text = str(calc) + 'm'
 
 def main():
-    return Converter('Converter', 'org.miningsearches.converter')
+    return Converter('Converter', 'org.miningsearches.converter', icon='dino.ico')
 
 
 if __name__ == '__main__':
